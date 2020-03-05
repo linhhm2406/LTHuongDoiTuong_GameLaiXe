@@ -1,0 +1,20 @@
+.main {
+    width: 250px;
+    height: 800px;
+    border: black 1px solid;
+
+}
+
+#start{
+    height: 50px;
+    width: 250px;
+    font-size: 30px;
+    margin: 10px;
+}
+
+#point, #level{
+    height: 50px;
+    width: 190px;
+    font-size: 50px;
+    margin: 10px;
+}
